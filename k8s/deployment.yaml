@@ -71,7 +71,6 @@ spec:
 ---
 # Service da aplicação web
 apiVersion: v1
-#kind: apiVersion: v1
 kind: Service
 metadata:
   name: web
